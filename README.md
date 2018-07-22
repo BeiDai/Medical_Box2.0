@@ -4,6 +4,8 @@
 
 - [工作日志](/工作日志.md)
 
+- [测试MedicalApp](https://github.com/BeiDai/MedicalApp)
+
 - [STM32项目开发经验](https://github.com/BeiDai/STM32_Experience)
 
 - [安卓APP开发经验](https://github.com/BeiDai/Android_Experience)
